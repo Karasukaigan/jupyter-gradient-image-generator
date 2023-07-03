@@ -1,6 +1,6 @@
 # Gradient Image Generator
 ![image.png](image.png)  
-This is a Python program that generates gradient images. It can be easily executed in Colab.   
+This is a Python program for generating gradient images. It is written in Jupyter Notebook. You can easily run it using Colab or JupyterLab.  
 ## Features
 ① Specify image size  
 ② Random generation  
