@@ -1,11 +1,8 @@
-# Generate gradation image
-
-<img src="https://github.com/Karasukaigan/opencv-gradient-image/blob/main/image.png"  alt="gradient_image" />  
-  
-グラデーション画像を生成するPythonプログラムです。Colabで簡単に実行可能です。  
-
-## 機能
-①画像サイズを指定  
-②ランダム生成  
-③一括生成  
-<img src="https://github.com/Karasukaigan/opencv-gradient-image/blob/main/image_list.png"  alt="gradient_image_list" />  
+# Gradient Image Generator
+![image.png](image.png)  
+This is a Python program that generates gradient images. It can be easily executed in Colab.   
+## Features
+① Specify image size  
+② Random generation  
+③ Batch generation  
+![image_list.png](image_list.png)
